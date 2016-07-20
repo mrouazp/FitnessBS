@@ -1,0 +1,26 @@
+#wraper {
+	border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    padding: 10px 50px;
+}
+.image img-responsive {
+	float: right;
+}
+#leftmenu li a  {
+		font-size: 17px;
+		color: gray;
+		background: #ffffff;
+		border: 1px solid gray;
+		
+}
+#leftmenu li a:hover {
+		padding-left: 30px;
+		color: black;
+		background: #f9f9f9;
+}
+#text {
+	padding: 20px 0;
+}
+.navbar-brand {
+	float: right;
+}
