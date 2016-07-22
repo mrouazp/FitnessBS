@@ -7,20 +7,29 @@
 	float: right;
 }
 #leftmenu li a  {
-		font-size: 17px;
-		color: gray;
-		background: #ffffff;
-		border: 1px solid gray;
+	font-size: 17px;
+	color: gray;
+	background: #ffffff;
+	border: 1px solid gray;
 		
 }
 #leftmenu li a:hover {
-		padding-left: 30px;
-		color: black;
-		background: #f9f9f9;
+	padding-left: 30px;
+	color: black;
+	background: #f9f9f9;
 }
 #text {
 	padding: 20px 0;
 }
 .navbar-brand {
 	float: right;
+}
+.dropdown-menu {
+	background: #262626;
+}
+.dropdown-menu li a {
+	color: #fff;
+}
+.nav-stacked > li + li {
+	margin-top: 0;
 }
